@@ -19,7 +19,7 @@ I'm Vedant Aggarwal, a 16-year-old student currently studying at GD Goenka, Pach
 
 ## Projects
 
-- **NGl Spammer:** A Python project involving XYZ.
+- **NGl Spammer:** A Python project spamming someone's NGL.
 - **Instagram Account Automater:** Developed a tool for automating tasks on Instagram.
 - **Instagram Account Banner:** Created custom banners for Instagram profiles.
 
