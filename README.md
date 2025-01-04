@@ -4,11 +4,11 @@
 
 ## About Me
 
-I'm Vedant Aggarwal, a 16-year-old student currently studying at GD Goenka, Pachim Vihar. While I'm pursuing Commerce with Mathematics, my true passions lie in coding, video editing, and technical pursuits. Despite my academic path, I'm deeply interested in the world of AI and its applications.
+I'm Vedant Aggarwal, a 17-year-old student currently studying at GD Goenka, Pachim Vihar. While I'm pursuing Commerce with Mathematics, my true passions lie in coding, video editing, and technical pursuits. Despite my academic path, I'm deeply interested in the world of AI and its applications.
 
 ## Education
 
-- Studying in 11th grade at GD Goenka, Pachim Vihar
+- Studying in 12th grade at GD Goenka, Pachim Vihar
 - Pursuing Commerce with Mathematics (CBSE)
 
 ## Skills
@@ -17,11 +17,11 @@ I'm Vedant Aggarwal, a 16-year-old student currently studying at GD Goenka, Pach
 - Video Editing
 - Photography
 
-## Projects
+## Major Projects
 
-- **NGl Spammer:** A Python project spamming someone's NGL.
-- **Instagram Account Automater:** Developed a tool for automating tasks on Instagram.
-- **Instagram Account Banner:** Created custom banners for Instagram profiles.
+- **Study Grow:** A website that allows you to master any subject using repetitive qna practice.
+- **Study Grow Mobile UI:** A Beautiful Website showcasing the UI for future mobile app of study grow.
+- **Think Hub ( in development ):** A Package of AI-powered tools for absolutely dominating the research/plan you need to work on.
 
 ## Achievements
 
@@ -29,7 +29,8 @@ I'm Vedant Aggarwal, a 16-year-old student currently studying at GD Goenka, Pach
 
 ## Contact
 
-- Instagram: [@ved.ant.agg](https://instagram.com/ved.ant.agg)
+- Instagram: [@_vedant.aggarwal](https://www.instagram.com/_vedant.aggarwal/)
+- LinkedIn: [Vedant Aggarwal](https://www.linkedin.com/in/vedant-aggarwal-88984a272/)
 
 ## Hobbies and Interests
 
